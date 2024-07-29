@@ -10,8 +10,7 @@
     bash
     npm install express*/
 
-/*3. Create an index.js file with the following content:**
- */
+/*3. Create an index.js file with the following content:*/
 // javascript
 const express = require('express');
 const app = express();
